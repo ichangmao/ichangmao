@@ -1,0 +1,1 @@
+include ':mao-commons', ':mao-app', ':mao-java-test'
